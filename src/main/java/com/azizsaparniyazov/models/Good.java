@@ -12,7 +12,7 @@ public class Good {
     private UUID id;
     private String name;
     private BigDecimal price;
-    private int categoryId;
+    private UUID categoryId;
     private String userId;
 
     public Good() {
